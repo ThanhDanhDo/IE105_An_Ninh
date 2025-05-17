@@ -1,0 +1,36 @@
+Round 1:
+  Test accuracy : 0.8853
+  Test loss     : 0.4754
+  Correct       : 8853
+  Total         : 10000
+  Total loss    : 4753.6429
+Round 2:
+  Test accuracy : 0.8976
+  Test loss     : 0.3974
+  Correct       : 8976
+  Total         : 10000
+  Total loss    : 3973.6378
+Round 3:
+  Test accuracy : 0.9026
+  Test loss     : 0.3655
+  Correct       : 9026
+  Total         : 10000
+  Total loss    : 3655.2345
+Round 1:
+  Test accuracy : 0.8824
+  Test loss     : 0.4759
+  Correct       : 8824
+  Total         : 10000
+  Total loss    : 4758.5852
+Round 2:
+  Test accuracy : 0.8983
+  Test loss     : 0.3977
+  Correct       : 8983
+  Total         : 10000
+  Total loss    : 3976.8501
+Round 3:
+  Test accuracy : 0.9029
+  Test loss     : 0.3657
+  Correct       : 9029
+  Total         : 10000
+  Total loss    : 3657.1363
